@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "ServiceBusConnection": "Sevice Bus Key",
+    "ConnectionStrings:RetailConnectionString": "SQL Server ConnectionString"
+  }
+}
